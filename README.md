@@ -8,7 +8,7 @@
 
   - [ODSC Europe 2020](https://app.aiplus.training/courses/take/odsc-europe-virtual-conference-2020-all-sessions/lessons/16386116-practical-methods-to-optimise-model-stability-a-case-study-using-customer-lifetime-value-at-farfetch-by-davide-sarra-and-kishan-manani-phd)
   - [ODSC Europe 2019](https://app.aiplus.training/courses/take/odsc-europe-2019/lessons/9600976-practical-methods-to-optimise-model-stability-a-case-study-using-customer-lifetime-value-at-farfetch-davide-sarra-kishan-manani-phd)
-  - PyData Cambridge 2019
+  - [PyData Cambridge 2019](https://x.com/PyDataCambridge/status/1195723574650294273)
 
 ### 📝 Blogging
 
